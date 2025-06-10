@@ -11,3 +11,4 @@ To github.com:minzyuuu/fixly.git
  2 files changed, 6 insertions(+)
 To github.com:minzyuuu/fixly.git
    3e426de..9278b7e  main -> main
+[+] Change detected. Pushing to GitHub...
