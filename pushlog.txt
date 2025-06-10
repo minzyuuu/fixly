@@ -5,3 +5,4 @@ nohup: ignoring input
  create mode 100644 pushlog.txt
 To github.com:minzyuuu/fixly.git
    1ffa6b3..3e426de  main -> main
+[+] Change detected. Pushing to GitHub...
